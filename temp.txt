@@ -1,0 +1,26 @@
+    
+
+
+
+
+    # items = []
+
+    # for equipment in data['equipment']:
+    #     item = EquipmentItem()
+    #     item.type = equipment['slotId']
+    #     item.name = equipment['itemName']
+    #     item.customed = 'customOption' in equipment
+    #     item.amplificationName = equipment['amplificationName']
+    #     item.reinforce = equipment['reinforce']
+    #     item.enchant = equipment['enchant']['status']
+    #     item.refine = equipment['refine']
+    #     item.fusioned = 'fusionOption' in equipment
+
+    #     if item.fusioned:
+    #         item.fusionId = equipment['upgradeInfo']['itemId']
+        
+    #     if item.customed:
+    #         item.options = equipment['customOption']['options']
+
+        
+    #     items.append(item)

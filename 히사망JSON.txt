@@ -1,0 +1,781 @@
+{
+  "characterId" : "a28ab3260226dc8ead810c603b8505e0",
+  "characterName" : "히오스사망",
+  "level" : 110,
+  "jobId" : "afdf3b989339de478e85b614d274d1ef",
+  "jobGrowId" : "618326026de1a1f1cfba5dbd0b8396e7",
+  "jobName" : "거너(남)",
+  "jobGrowName" : "眞 런처",
+  "adventureName" : "개미는갬갬",
+  "guildId" : "63d35e9ffce0a4a0bee65e3c9f1e3c66",
+  "guildName" : "뻐킹던전맨",
+  "equipment" : [ {
+    "slotId" : "WEAPON",
+    "slotName" : "무기",
+    "itemId" : "59b7ead532c89a28d17d1e1fd639061c",
+    "itemName" : "仙 : 근원을 삼킨 핸드캐넌",
+    "itemTypeId" : "4ffb6f14b86f5c818a925bf58022686e",
+    "itemType" : "무기",
+    "itemTypeDetailId" : "0c6fa88af519cf12aac5eab1e3376a49",
+    "itemTypeDetail" : "핸드캐넌",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 13,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "화속성강화",
+        "value" : 15
+      }, {
+        "name" : "명속성강화",
+        "value" : 15
+      } ]
+    },
+    "amplificationName" : null,
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 1226,
+        "explain" : "최종 데미지 5% 증가\n75Lv 스킬 쿨타임 10% 감소",
+        "explainDetail" : "최종 데미지 5% 증가\n75Lv 스킬 쿨타임 10% 감소"
+      }, {
+        "buff" : 1226,
+        "explain" : "최종 데미지 5% 증가\n35, 40Lv 스킬 쿨타임 15% 감소",
+        "explainDetail" : "최종 데미지 5% 증가\n35, 40Lv 스킬 쿨타임 15% 감소"
+      }, {
+        "damage" : 157.8,
+        "buff" : 710,
+        "explain" : "최종 데미지 3% 증가\n피격 시 15초 동안 HP MAX 5% 수치의 보호막 부여 (쿨타임 12초)",
+        "explainDetail" : "최종 데미지 3% 증가\n피격 시 15초 동안 HP MAX 5% 수치의 보호막 부여 (쿨타임 12초)"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "a68f2eb348e65ac31ab11e041809f17a",
+      "itemName" : "마지막 불의 숨결 : 핸드캐넌"
+    },
+    "fixedOption" : {
+      "damage" : 1937.6,
+      "buff" : 7278,
+      "level" : 40,
+      "expRate" : 0,
+      "explain" : "최종 데미지 10% 증가\n모든 스킬 Lv +1 (각성기 제외)\n\n물리/마법 방어력 +7,000\n화속성 저항 +10",
+      "explainDetail" : "최종 데미지 10% 증가\n모든 스킬 Lv +1 (각성기 제외)\n\n물리/마법 방어력 +7,000\n화속성 저항 +10"
+    }
+  }, {
+    "slotId" : "TITLE",
+    "slotName" : "칭호",
+    "itemId" : "c89a01593a155a3cbaaf272084d8fb57",
+    "itemName" : "진정한 각성을 이룬 자",
+    "itemTypeId" : "e490f8cce6bacd43bef1e2f5e0c4943d",
+    "itemType" : "액세서리",
+    "itemTypeDetailId" : "691933a06ff114348a7db936fb0aec66",
+    "itemTypeDetail" : "칭호",
+    "itemAvailableLevel" : 1,
+    "itemRarity" : "레어",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 0,
+    "enchant" : {
+      "status" : [ {
+        "name" : "명속성강화",
+        "value" : 6
+      }, {
+        "name" : "힘",
+        "value" : 25
+      }, {
+        "name" : "지능",
+        "value" : 25
+      }, {
+        "name" : "체력",
+        "value" : 25
+      }, {
+        "name" : "정신력",
+        "value" : 25
+      } ]
+    },
+    "amplificationName" : null,
+    "refine" : 0
+  }, {
+    "slotId" : "JACKET",
+    "slotName" : "상의",
+    "itemId" : "9e1e26f3f38def1943ff11282c0be464",
+    "itemName" : "仙 : 블루 베릴 아머",
+    "itemTypeId" : "b09752bfff1935188ea2735cd925a872",
+    "itemType" : "방어구",
+    "itemTypeDetailId" : "d8d2efdab287895452f0c8a54e80826d",
+    "itemTypeDetail" : "상의",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 10,
+    "itemGradeName" : "상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "물리 공격력",
+        "value" : 70
+      }, {
+        "name" : "힘",
+        "value" : 40
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 2066,
+        "explain" : "최종 데미지 5% 증가\n모든 속도 +10%",
+        "explainDetail" : "최종 데미지 5% 증가\n모든 속도 +10%"
+      }, {
+        "explain" : "[생사의 경계]\n생사의 경계로부터 힘을 받아 장착한 대지 장비 개수(2/3/5)에 따라 아래의 효과 적용\n- 모든 속도 +6%/+9%/+15%",
+        "explainDetail" : "[생사의 경계]\n생사의 경계로부터 힘을 받아 장착한 대지 장비 개수(2/3/5)에 따라 아래의 효과 적용\n- 모든 속도 +6%/+9%/+15%"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "cfb10e82f068a4afa752d8e15fb1349c",
+      "itemName" : "대지 : 생명이 돋아나는 땅"
+    },
+    "customOption" : {
+      "damage" : 1507,
+      "buff" : 7425,
+      "level" : 40,
+      "expRate" : 0,
+      "options" : [ {
+        "explain" : "공격력 증가 +1291.7%",
+        "explainDetail" : "공격력 증가 +1291.7%"
+      }, {
+        "explain" : "출혈 피해 +30%\n물리/마법 피해 감소 -20%\n출혈 내성 +20%",
+        "explainDetail" : "출혈 피해 +30%\n물리/마법 피해 감소 -20%\n출혈 내성 +20%",
+        "transfer" : true
+      }, {
+        "explain" : "모든 속성 강화 +20",
+        "explainDetail" : "모든 속성 강화 +20"
+      }, {
+        "explain" : "공격력 증가 +1345.5%\n물리/마법 방어력 +5,000",
+        "explainDetail" : "공격력 증가 +1345.5%\n물리/마법 방어력 +5,000"
+      } ]
+    }
+  }, {
+    "slotId" : "SHOULDER",
+    "slotName" : "머리어깨",
+    "itemId" : "6acf2b0e399936277fb8d57f6caa1fe6",
+    "itemName" : "仙 : 딥 다이버 에어팩",
+    "itemTypeId" : "b09752bfff1935188ea2735cd925a872",
+    "itemType" : "방어구",
+    "itemTypeDetailId" : "51234d181dc4abf7dc948ca2abaa3d30",
+    "itemTypeDetail" : "머리어깨",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 10,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "explain" : "최종 데미지 +2%",
+      "status" : [ {
+        "name" : "힘",
+        "value" : 40
+      }, {
+        "name" : "지능",
+        "value" : 40
+      }, {
+        "name" : "체력",
+        "value" : 40
+      }, {
+        "name" : "정신력",
+        "value" : 40
+      }, {
+        "name" : "물리 공격력",
+        "value" : 10
+      }, {
+        "name" : "마법 공격력",
+        "value" : 10
+      }, {
+        "name" : "독립 공격력",
+        "value" : 10
+      }, {
+        "name" : "물리 크리티컬 히트",
+        "value" : "5%"
+      }, {
+        "name" : "마법 크리티컬 히트",
+        "value" : "5%"
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "damage" : 375.6,
+        "buff" : 1063,
+        "explain" : "40, 75Lv 스킬 쿨타임 회복 속도 +22.5%",
+        "explainDetail" : "40, 75Lv 스킬 쿨타임 회복 속도 +22.5%"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "26b72a48c54e98296ff3df20a52d4c16",
+      "itemName" : "교감 : 감싸안는 햇살"
+    },
+    "customOption" : {
+      "damage" : 1345.5,
+      "buff" : 7186,
+      "level" : 40,
+      "expRate" : 0,
+      "options" : [ {
+        "explain" : "모든 속성 강화 +18",
+        "explainDetail" : "모든 속성 강화 +18"
+      }, {
+        "explain" : "최종 데미지 6% 증가\n피격으로 HP가 10% 이상 감소 시 20초 동안 HP MAX 30% 수치의 보호막 부여 (쿨타임 15초)",
+        "explainDetail" : "최종 데미지 6% 증가\n피격으로 HP가 10% 이상 감소 시 20초 동안 HP MAX 30% 수치의 보호막 부여 (쿨타임 15초)"
+      }, {
+        "explain" : "명속성 강화 +40",
+        "explainDetail" : "명속성 강화 +40",
+        "transfer" : true
+      }, {
+        "explain" : "공격력 증가 +1507.0%\n모든 속도 +20%",
+        "explainDetail" : "공격력 증가 +1507.0%\n모든 속도 +20%"
+      } ]
+    }
+  }, {
+    "slotId" : "PANTS",
+    "slotName" : "하의",
+    "itemId" : "ba249d936d4b314ec751602e29950234",
+    "itemName" : "仙 : 엔트 정령의 하의",
+    "itemTypeId" : "b09752bfff1935188ea2735cd925a872",
+    "itemType" : "방어구",
+    "itemTypeDetailId" : "af5678d99e6c5c5cc50e60e81c66a7ac",
+    "itemTypeDetail" : "하의",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 11,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "물리 공격력",
+        "value" : 80
+      }, {
+        "name" : "힘",
+        "value" : 50
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 2066,
+        "explain" : "최종 데미지 5% 증가\nHP MAX +5%",
+        "explainDetail" : "최종 데미지 5% 증가\nHP MAX +5%"
+      }, {
+        "explain" : "[생사의 경계]\n생사의 경계로부터 힘을 받아 장착한 대지 장비 개수(2/3/5)에 따라 아래의 효과 적용\n- 모든 속도 +6%/+9%/+15%",
+        "explainDetail" : "[생사의 경계]\n생사의 경계로부터 힘을 받아 장착한 대지 장비 개수(2/3/5)에 따라 아래의 효과 적용\n- 모든 속도 +6%/+9%/+15%"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "3b0a259d06f696b63f1ce3eaca4abc52",
+      "itemName" : "대지 : 죽음이 내려앉는 시간"
+    },
+    "customOption" : {
+      "damage" : 1722.3,
+      "buff" : 7388,
+      "level" : 40,
+      "expRate" : 0,
+      "options" : [ {
+        "explain" : "출혈 피해 +20%",
+        "explainDetail" : "출혈 피해 +20%"
+      }, {
+        "explain" : "40Lv 스킬 공격력 20% 증가\n45Lv 스킬 쿨타임 15% 증가",
+        "explainDetail" : "40Lv 스킬 공격력 20% 증가\n45Lv 스킬 쿨타임 15% 증가"
+      }, {
+        "explain" : "모든 속성 강화 +20",
+        "explainDetail" : "모든 속성 강화 +20"
+      }, {
+        "explain" : "공격력 증가 +1291.7%",
+        "explainDetail" : "공격력 증가 +1291.7%"
+      } ]
+    },
+    "refinedMistGear" : true
+  }, {
+    "slotId" : "SHOES",
+    "slotName" : "신발",
+    "itemId" : "9a4dd7213c769457d1e1cd2813f49de7",
+    "itemName" : "仙 : 옥화의 망령 각갑",
+    "itemTypeId" : "b09752bfff1935188ea2735cd925a872",
+    "itemType" : "방어구",
+    "itemTypeDetailId" : "9f097ffd4f7fddb4ccbcbca60903112c",
+    "itemTypeDetail" : "신발",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 10,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "이동속도",
+        "value" : "10%"
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "damage" : 703.4,
+        "buff" : 1291,
+        "explain" : "슈퍼 아머 부여\n\n이동 속도 +8%\n\n물리/마법 피해 감소 +10%",
+        "explainDetail" : "슈퍼 아머 부여\n\n이동 속도 +8%\n\n물리/마법 피해 감소 +10%"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "f2c4246d0b59619eea5d03bb5b76cc91",
+      "itemName" : "격노 : 방향을 잃은 갈망"
+    },
+    "fixedOption" : {
+      "damage" : 2035.6,
+      "buff" : 7172,
+      "level" : 40,
+      "expRate" : 0,
+      "explain" : "공격력 증가 +1237.9%\n최종 데미지 17% 증가\n\n공격 속도 +24%\n캐스팅 속도 +24%\n이동 속도 +8%\n회피율 +8%",
+      "explainDetail" : "공격력 증가 +1237.9%\n최종 데미지 17% 증가\n\n공격 속도 +24%\n캐스팅 속도 +24%\n이동 속도 +8%\n회피율 +8%"
+    }
+  }, {
+    "slotId" : "WAIST",
+    "slotName" : "벨트",
+    "itemId" : "78daf914d749c36f71a294f273d03b18",
+    "itemName" : "仙 : 숲속의 마녀 벨트",
+    "itemTypeId" : "b09752bfff1935188ea2735cd925a872",
+    "itemType" : "방어구",
+    "itemTypeDetailId" : "851ab631130f0f129272aa17e5053b2b",
+    "itemTypeDetail" : "벨트",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 10,
+    "itemGradeName" : "상급",
+    "enchant" : {
+      "explain" : "최종 데미지 +2%",
+      "status" : [ {
+        "name" : "힘",
+        "value" : 30
+      }, {
+        "name" : "지능",
+        "value" : 30
+      }, {
+        "name" : "체력",
+        "value" : 30
+      }, {
+        "name" : "정신력",
+        "value" : 30
+      }, {
+        "name" : "물리 공격력",
+        "value" : 6
+      }, {
+        "name" : "마법 공격력",
+        "value" : 6
+      }, {
+        "name" : "독립 공격력",
+        "value" : 6
+      }, {
+        "name" : "물리 크리티컬 히트",
+        "value" : "3%"
+      }, {
+        "name" : "마법 크리티컬 히트",
+        "value" : "3%"
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 1291,
+        "explain" : "모든 속성 강화 +25\n\n공격 시 적에게 20초 동안 출혈/화상 상태 이상 부여 (쿨타임 5초)\n\n둔화 내성 +10%\n저주 내성 +10%\n구속 내성 +10%",
+        "explainDetail" : "모든 속성 강화 +25\n\n공격 시 적에게 20초 동안 출혈/화상 상태 이상 부여 (쿨타임 5초)\n\n둔화 내성 +10%\n저주 내성 +10%\n구속 내성 +10%"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "696f3d3ba4e845082a08cc81aababb1b",
+      "itemName" : "포식 : 조여오는 올가미"
+    },
+    "customOption" : {
+      "damage" : 1830,
+      "buff" : 7260,
+      "level" : 40,
+      "expRate" : 0,
+      "options" : [ {
+        "explain" : "공격력 증가 +1614.6%",
+        "explainDetail" : "공격력 증가 +1614.6%"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n60Lv 스킬 쿨타임 회복 속도 +15%",
+        "explainDetail" : "최종 데미지 5% 증가\n60Lv 스킬 쿨타임 회복 속도 +15%"
+      }, {
+        "explain" : "스킬 쿨타임 15% 감소 (각성기 제외)",
+        "explainDetail" : "스킬 쿨타임 15% 감소 (각성기 제외)",
+        "transfer" : true
+      }, {
+        "explain" : "최종 데미지 5% 증가\n95Lv 스킬 쿨타임 회복 속도 +15%",
+        "explainDetail" : "최종 데미지 5% 증가\n95Lv 스킬 쿨타임 회복 속도 +15%"
+      } ]
+    }
+  }, {
+    "slotId" : "AMULET",
+    "slotName" : "목걸이",
+    "itemId" : "6f643139e81283625ab8de6ad1ec1f7a",
+    "itemName" : "仙 : 블루 베릴 네클레스",
+    "itemTypeId" : "e490f8cce6bacd43bef1e2f5e0c4943d",
+    "itemType" : "액세서리",
+    "itemTypeDetailId" : "390e3966118b0c466ce9f8eae45e1629",
+    "itemTypeDetail" : "목걸이",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 11,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "화속성강화",
+        "value" : 35
+      }, {
+        "name" : "명속성강화",
+        "value" : 35
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 3000,
+        "explain" : "최종 데미지 7% 증가\n적의 남은 HP가 50% 미만일 때 최종 데미지 4% 증가",
+        "explainDetail" : "최종 데미지 7% 증가\n적의 남은 HP가 50% 미만일 때 최종 데미지 4% 증가"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "4171acf806efc2da5e945a75dbe834ae",
+      "itemName" : "광폭화 제어 장치"
+    },
+    "customOption" : {
+      "damage" : 1991.4,
+      "buff" : 7259,
+      "level" : 40,
+      "expRate" : 0,
+      "options" : [ {
+        "explain" : "최종 데미지 2% 증가\n40Lv 스킬 쿨타임 회복 속도 +30%\n자신에게 해제되지 않는 화상 상태 이상 부여",
+        "explainDetail" : "최종 데미지 2% 증가\n40Lv 스킬 쿨타임 회복 속도 +30%\n자신에게 해제되지 않는 화상 상태 이상 부여"
+      }, {
+        "explain" : "최종 데미지 2% 증가\n75Lv 스킬 쿨타임 회복 속도 +30%\n자신에게 해제되지 않는 화상 상태 이상 부여",
+        "explainDetail" : "최종 데미지 2% 증가\n75Lv 스킬 쿨타임 회복 속도 +30%\n자신에게 해제되지 않는 화상 상태 이상 부여",
+        "transfer" : true
+      }, {
+        "explain" : "모든 속성 강화 +20",
+        "explainDetail" : "모든 속성 강화 +20"
+      }, {
+        "explain" : "최종 데미지 4% 증가\n소모품 효과 유지 시간 +10%\n모든 상태 이상 내성 +1.5%\n수면 내성 -1.5%",
+        "explainDetail" : "최종 데미지 4% 증가\n소모품 효과 유지 시간 +10%\n모든 상태 이상 내성 +1.5%\n수면 내성 -1.5%"
+      } ]
+    }
+  }, {
+    "slotId" : "WRIST",
+    "slotName" : "팔찌",
+    "itemId" : "86b6f19f5dcd3ef4ef8a7eb9164960e0",
+    "itemName" : "仙 : 흑화의 구속 팔찌",
+    "itemTypeId" : "e490f8cce6bacd43bef1e2f5e0c4943d",
+    "itemType" : "액세서리",
+    "itemTypeDetailId" : "80bddf423629c28c7b4459c328fdffaf",
+    "itemTypeDetail" : "팔찌",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : "86458e6e96c6892f6413a00668f4fb76",
+    "setItemName" : "핏빛으로 물든 신념 세트",
+    "reinforce" : 11,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "화속성강화",
+        "value" : 35
+      }, {
+        "name" : "명속성강화",
+        "value" : 35
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 3000,
+        "explain" : "최종 데미지 9% 증가\n\n스킬 MP 소모량 -30%\n\n공격 시 5% 확률로 30초 동안 '기록된 신수' 소환 (쿨타임 30초)\n- 총 공격력 증가의 600%만큼 피해",
+        "explainDetail" : "최종 데미지 9% 증가\n\n스킬 MP 소모량 -30%\n\n공격 시 5% 확률로 30초 동안 '기록된 신수' 소환 (쿨타임 30초)\n- 총 공격력 증가의 600%만큼 피해"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "dedbcb9684579c9e99d228a9f0d165d5",
+      "itemName" : "지배자의 위엄"
+    },
+    "fixedOption" : {
+      "damage" : 1311.3,
+      "buff" : 7124,
+      "level" : 40,
+      "expRate" : 0,
+      "explain" : "최종 데미지 7.1% 증가\n출혈 피해 전환 +50%\n출혈 피해 +20%\n\n물리/마법 피해의 50%를 출혈 피해로 전환\n\n출혈 내성 +1%",
+      "explainDetail" : "최종 데미지 7.1% 증가\n출혈 피해 전환 +50%\n출혈 피해 +20%\n\n물리/마법 피해의 50%를 출혈 피해로 전환\n\n출혈 내성 +1%"
+    }
+  }, {
+    "slotId" : "RING",
+    "slotName" : "반지",
+    "itemId" : "f7ace0123fac1871ee1c1969f1c18121",
+    "itemName" : "仙 : 숲속의 마녀 반지",
+    "itemTypeId" : "e490f8cce6bacd43bef1e2f5e0c4943d",
+    "itemType" : "액세서리",
+    "itemTypeDetailId" : "b04c7fb9b29b27b91a0a9e5a1822bc8f",
+    "itemTypeDetail" : "반지",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 11,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "화속성강화",
+        "value" : 35
+      }, {
+        "name" : "명속성강화",
+        "value" : 35
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 3000,
+        "explain" : "최종 데미지 9% 증가\n\n이동 속도 +10%\n\nHP 1분당 920.4 회복",
+        "explainDetail" : "최종 데미지 9% 증가\n\n이동 속도 +10%\n\nHP 1분당 920.4 회복"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "1c518dcf5ae8f01e901f27421f1b0702",
+      "itemName" : "기민한 움직임"
+    },
+    "customOption" : {
+      "damage" : 1776.2,
+      "buff" : 7204,
+      "level" : 40,
+      "expRate" : 4.27,
+      "options" : [ {
+        "explain" : "명속성 강화 +20",
+        "explainDetail" : "명속성 강화 +20"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n75Lv 스킬 쿨타임 회복 속도 +15%",
+        "explainDetail" : "최종 데미지 5% 증가\n75Lv 스킬 쿨타임 회복 속도 +15%"
+      }, {
+        "explain" : "모든 속성 강화 +18",
+        "explainDetail" : "모든 속성 강화 +18"
+      }, {
+        "explain" : "가장 높은 상태 이상 내성 수치가 50% 이상일 때 스킬 쿨타임 회복 속도 +30% (각성기 제외)\n빙결 내성 +40%",
+        "explainDetail" : "가장 높은 상태 이상 내성 수치가 50% 이상일 때 스킬 쿨타임 회복 속도 +30% (각성기 제외)\n빙결 내성 +40%",
+        "transfer" : true
+      } ]
+    }
+  }, {
+    "slotId" : "SUPPORT",
+    "slotName" : "보조장비",
+    "itemId" : "2a53f0a9bd0b34aa5c0315e604c2127c",
+    "itemName" : "仙 : 엔트 정령의 성배",
+    "itemTypeId" : "87ff665868ffd50f8aef7948548439bd",
+    "itemType" : "추가장비",
+    "itemTypeDetailId" : "2fef5d81b7f59f0c75241890a8d941c9",
+    "itemTypeDetail" : "보조장비",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 12,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "물리 크리티컬 히트",
+        "value" : "3%"
+      }, {
+        "name" : "마법 크리티컬 히트",
+        "value" : "3%"
+      }, {
+        "name" : "모든 속성 강화",
+        "value" : 12
+      }, {
+        "name" : "공격력 증폭",
+        "value" : "3%"
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "damage" : 495,
+        "buff" : 2173,
+        "explain" : "최종 데미지 6% 증가\n스킬 범위 5% 증가\n1~40Lv 스킬 범위 18% 증가",
+        "explainDetail" : "최종 데미지 6% 증가\n스킬 범위 5% 증가\n1~40Lv 스킬 범위 18% 증가"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "66be17fd1be2bbad7a54b1b534de26cc",
+      "itemName" : "감시자 : 추앙받던 은총"
+    },
+    "customOption" : {
+      "damage" : 1399.3,
+      "buff" : 7315,
+      "level" : 40,
+      "expRate" : 13.78,
+      "options" : [ {
+        "explain" : "명속성 강화 +20",
+        "explainDetail" : "명속성 강화 +20"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n감전 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n감전 내성 +1%"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n화상 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n화상 내성 +1%",
+        "transfer" : true
+      }, {
+        "explain" : "최종 데미지 5% 증가\n중독 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n중독 내성 +1%"
+      } ]
+    }
+  }, {
+    "slotId" : "MAGIC_STON",
+    "slotName" : "마법석",
+    "itemId" : "f77eb6ef10f8cc9410f9e280407d0dd3",
+    "itemName" : "仙 : 딥 다이버 마스크",
+    "itemTypeId" : "87ff665868ffd50f8aef7948548439bd",
+    "itemType" : "추가장비",
+    "itemTypeDetailId" : "fe5f3db78175f5a3196385c688d29681",
+    "itemTypeDetail" : "마법석",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : null,
+    "setItemName" : null,
+    "reinforce" : 12,
+    "itemGradeName" : "상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "모든 속성 강화",
+        "value" : 30
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "buff" : 3000,
+        "explain" : "최종 데미지 10% 증가\n\n火(화), 水(수), 明(명), 暗(암) 공격 속성",
+        "explainDetail" : "최종 데미지 10% 증가\n\n火(화), 水(수), 明(명), 暗(암) 공격 속성"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "3e57e786cca74683a7e92fccf6f7f741",
+      "itemName" : "영광의 재림"
+    },
+    "customOption" : {
+      "damage" : 1237.8,
+      "buff" : 7261,
+      "level" : 40,
+      "expRate" : 8.06,
+      "options" : [ {
+        "explain" : "최종 데미지 5% 증가\n피격으로 HP가 10% 이상 감소 시 20초 동안 HP MAX 20% 수치의 보호막 부여 (쿨타임 15초)",
+        "explainDetail" : "최종 데미지 5% 증가\n피격으로 HP가 10% 이상 감소 시 20초 동안 HP MAX 20% 수치의 보호막 부여 (쿨타임 15초)"
+      }, {
+        "explain" : "최종 데미지 8% 증가",
+        "explainDetail" : "최종 데미지 8% 증가"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n물리/마법 방어력 +5,000",
+        "explainDetail" : "최종 데미지 5% 증가\n물리/마법 방어력 +5,000"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n중독 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n중독 내성 +1%",
+        "transfer" : true
+      } ]
+    }
+  }, {
+    "slotId" : "EARRING",
+    "slotName" : "귀걸이",
+    "itemId" : "f14f250183e5394b650e9ac23940ccae",
+    "itemName" : "仙 : 딥 다이버 이어링",
+    "itemTypeId" : "87ff665868ffd50f8aef7948548439bd",
+    "itemType" : "추가장비",
+    "itemTypeDetailId" : "601834074c49bb0e48cb65a75a8667bc",
+    "itemTypeDetail" : "귀걸이",
+    "itemAvailableLevel" : 110,
+    "itemRarity" : "에픽",
+    "setItemId" : "225d0e2b9e9a633cc6ca7b4eface66ae",
+    "setItemName" : "안개를 걷는 자 세트",
+    "reinforce" : 12,
+    "itemGradeName" : "최상급",
+    "enchant" : {
+      "status" : [ {
+        "name" : "모든 속성 강화",
+        "value" : 11
+      }, {
+        "name" : "힘",
+        "value" : 50
+      }, {
+        "name" : "지능",
+        "value" : 50
+      }, {
+        "name" : "체력",
+        "value" : 50
+      }, {
+        "name" : "정신력",
+        "value" : 50
+      } ]
+    },
+    "amplificationName" : "차원의 힘",
+    "refine" : 0,
+    "fusionOption" : {
+      "options" : [ {
+        "damage" : 495,
+        "buff" : 2173,
+        "explain" : "최종 데미지 6% 증가\n스킬 범위 5% 증가\n75, 80Lv 스킬 범위 18% 증가",
+        "explainDetail" : "최종 데미지 6% 증가\n스킬 범위 5% 증가\n75, 80Lv 스킬 범위 18% 증가"
+      } ]
+    },
+    "upgradeInfo" : {
+      "itemId" : "26a2107ed0092ce8f6468492c87fbd43",
+      "itemName" : "감시자 : 고뇌하는 의지"
+    },
+    "customOption" : {
+      "damage" : 1291.6,
+      "buff" : 7316,
+      "level" : 40,
+      "expRate" : 12.1,
+      "options" : [ {
+        "explain" : "최종 데미지 5% 증가\n중독 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n중독 내성 +1%"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n화상 내성 +1%",
+        "explainDetail" : "최종 데미지 5% 증가\n화상 내성 +1%"
+      }, {
+        "explain" : "최종 데미지 5% 증가\n물리/마법 방어력 +5,000",
+        "explainDetail" : "최종 데미지 5% 증가\n물리/마법 방어력 +5,000"
+      }, {
+        "explain" : "최종 데미지 6% 증가\n무력화 게이지 감소량 +10%",
+        "explainDetail" : "최종 데미지 6% 증가\n무력화 게이지 감소량 +10%"
+      } ]
+    },
+    "mistGear" : true
+  } ],
+  "setItemInfo" : [ {
+    "setItemId" : "225d0e2b9e9a633cc6ca7b4eface66ae",
+    "setItemName" : "안개를 걷는 자 세트",
+    "slotInfo" : [ {
+      "slotId" : "PANTS",
+      "slotName" : "하의",
+      "itemRarity" : "에픽"
+    }, {
+      "slotId" : "EARRING",
+      "slotName" : "귀걸이",
+      "itemRarity" : "에픽"
+    } ],
+    "activeSetNo" : 2
+  } ]
+}
